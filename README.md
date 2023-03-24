@@ -43,6 +43,8 @@
 ```bash
 $ nvm use 14
 
+$ npm install
+
 $ docker-compose up -d
 
 # watch mode
