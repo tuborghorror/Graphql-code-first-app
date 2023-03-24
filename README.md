@@ -11,6 +11,7 @@
 | <a href="http://nestjs.com/" target="blank">**Nest.js**</a> | Main project framework |
 | <a href="https://www.postgresql.org/" target="blank">**PostgreSQL**</a> | Project database system |
 | <a href="https://typeorm.io/#/" target="blank">**TypeORM**</a> | Project ORM  system |
+| <a href="https://graphql.org/" target="blank">**GraphQL**</a> | A query language |
 
 ## Steps inside the course
 ```bash
