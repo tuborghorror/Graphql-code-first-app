@@ -14,7 +14,7 @@
 
 ## Steps inside the course
 ```bash
-1. Before we get started
+1. GraphQL Code-first Course Overview
 2. Introduction to GraphQL with NestJS
 3. Code First vs Schema First
 4. Creating our first GraphQL Application
